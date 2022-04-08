@@ -4,5 +4,6 @@
   "idf.portWin": "COM4",
   "files.associations": {
     "*.inc": "c"
-  }
+  },
+  "idf.adapterTargetName": "esp32"
 }
